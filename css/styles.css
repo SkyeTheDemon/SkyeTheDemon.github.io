@@ -11,6 +11,9 @@ body {
   padding-right: 24px;
 }
 html {
-  background: radial-gradient(circle, #e58f65, #e58f65 50%, #f9e784 50%, #e58f65);
+  background: #F9E784;
+background: -moz-linear-gradient(top, #F9E784 0%, #E58F65 63%, #E58F65 100%);
+background: -webkit-linear-gradient(top, #F9E784 0%, #E58F65 63%, #E58F65 100%);
+background: linear-gradient(to bottom, #F9E784 0%, #E58F65 63%, #E58F65 100%);
   background-size: 10px 10px;
 }
