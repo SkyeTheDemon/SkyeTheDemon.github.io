@@ -1,7 +1,5 @@
 # SkyeTheDemon.github.io
+> https://skyethedemon.github.io/
 
-https://skyethedemon.github.io/
-
-Basically my website,
-
-expect this to change frequently as i'm still learning and might need to debug things aha,,
+This is basically my website that I am currently building from scratch and using as a way to learn html/css.
+<p>:sparkles:
