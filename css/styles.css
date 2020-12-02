@@ -10,3 +10,7 @@ body {
   padding-left: 24px;
   padding-right: 24px;
 }
+html {
+  background: radial-gradient(circle, #e58f65, #e58f65 50%, #f9e784 50%, #e58f65);
+  background-size: 2px 2px;
+}
