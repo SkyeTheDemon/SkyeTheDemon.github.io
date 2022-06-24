@@ -1,0 +1,114 @@
+body {
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+
+}
+.header-img {
+    max-width: 800px;
+    background: no-repeat url("../img/websitebanner.png");
+    background-size: cover;
+    text-align: center;
+    padding-left: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-right: 0%;
+}
+
+.navbar {
+    max-width: 400px;
+    background-color: black;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+/*Buttons
+Colors: https://coolors.co/1b1b1b-212121-272727
+#1b1b1b -> Hover
+#212121 -> Base
+#272727 -> Other Hover (I like the darker hover more than a lighter one so wee)*/
+.About {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 525px;
+    cursor: pointer;
+
+    background: #212121;
+    border-radius: 1256px;
+
+    font-family: Abel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 92px;
+    /*identical to box height*/
+    text-align: center;
+    color: #FFFFFF;
+
+    transition-duration: 0.1s;
+    
+}
+.About:hover {
+    background-color: #1B1B1B;
+}
+
+.Portfolio {
+    top: 175px;
+    left: -1733px;
+    max-width: 525px;
+    cursor: pointer;
+
+    background: #212121;
+    border-radius: 1256px;
+
+    font-family: Abel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 92px;
+    /*identical to box height*/
+    text-align: center;
+    color: #FFFFFF;
+
+    transition-duration: 0.1s;
+}
+.Portfolio:hover {
+    background-color: #1B1B1B;
+}
+
+.FAQ {
+    top: 308px;
+    left: -1733px;
+    width: 525px;
+    height: 92px;
+
+    background: #212121;
+    border-radius: 1256px;
+
+    font-family: Abel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 92px;
+    /*identical to box height*/
+    text-align: center;
+    color: #FFFFFF;
+
+    transition-duration: 0.1s;
+}
+.FAQ:hover {
+    background-color: #1B1B1B;
+}
+
+#separator {
+    top: 487px;
+    left: -1831px;
+    width: 720px;
+    height: 1px;
+
+    background: #000000;
+}
+
+.credit {
+    text-align: center;
+}

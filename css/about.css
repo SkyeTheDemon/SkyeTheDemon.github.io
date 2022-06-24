@@ -1,0 +1,23 @@
+.header-img {
+    width: 1640px;
+    height: 314px;
+    background: no-repeat url("../img/websitebanner.png");
+    background-size: contain, cover;
+    text-align: center;
+}
+
+#header {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 1640 px;
+    height: 314px;
+    color: #CCFFF6;
+}
+
+img {
+    border-radius: 50%;
+    width: 435px; 
+    height: 435px;
+}
